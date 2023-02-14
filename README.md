@@ -16,7 +16,7 @@
 <!-- <a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a> -->
 
 ### 📫 Reach me at 
-!<a href="https://twitter.com/nicofetter" target="_blank">[Twitter Follow](https://img.shields.io/twitter/follow/nicofetter?style=social)</a>
+<a href="https://twitter.com/nicofetter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicofetter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
