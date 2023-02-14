@@ -18,7 +18,6 @@
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nicofetter?style=social)
 
-----------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/nicomfe">nicomfe</a>
+
 
