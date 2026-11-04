@@ -23,3 +23,22 @@ I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) a simple online
 </picture>
 
 <p align="center"><sub>Activity graphics refresh daily with GitHub Actions.</sub></p>
+
+<details open>
+<summary><b>My story</b></summary>
+<br>
+
+| Year |	Milestone |
+| --- | --- |
+| 2005 | Started a degree in Software Engineering at Universidad Tecnológica Nacional, Argentina
+| 2009 | Landed my first software development job as an intern for Motorola Mobility
+| 2010 | Graduated in Software Engineering and joined Motorola Mobility as a full-time Software Developer
+| 2013 | Relocated to New Zealand and joined Mako Networks as a Java Developer
+| 2014 | Joined Telecom as a Software Engineer
+| 2018 | Founded TheHype.nz, a web development agency for small New Zealand Businesses
+| 2021 | Technical Co-Foudner at Instafood, a food delivery startup built around a cloud-kitchen model
+| 2023 | Relocated to Spain and joined an e-learning startup as a Lead Software Engineer
+
+</details>
+
+
