@@ -6,16 +6,6 @@
   <a href="https://nicofetter.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/website-dark.svg"><img alt="nicofetter.com" src="assets/buttons/website-light.svg" height="44"></picture></a>
 </p>
 
-### 🚀 Maker of
+I'm a software engineer from Argentina living in Spain, building for the web since 2010. Currently working for startups integrating AI into customer facing products.
 
-📓 [TinyInvoice.app](https://TinyInvoice.app) Web Invoice Generator, create & send professional PDFs invoices
- 
-🟥 [TheHype.nz](https://thehype.nz) Digital agency for New Zealand small businesses
-
-### 📫 Reach me at
-
-[nicofetter.com](https://nicofetter.com)
-
-
-### Interested in
-Tech, Music, Football, Surfing & Nature
+I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) and founder of [TheHype.nz](https://thehype.nz) Digital agency for New Zealand small businesses.
