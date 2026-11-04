@@ -1,10 +1,10 @@
-/** Shared brutalist hero geometry (840×300). */
+/** Shared brutalist hero geometry (840×262). */
 
 export const WIDTH = 840;
-export const HEIGHT = 300;
 export const CONTENT_LEFT = 44;
 export const CONTENT_RIGHT = 796;
 export const BORDER_INSET = 2;
+export const BOTTOM_PADDING = 10;
 
 /** Tighter vertical rhythm — less empty space above the name. */
 export const LAYOUT = {
@@ -20,6 +20,9 @@ export const LAYOUT = {
   monoSize: 20,
   promptX: CONTENT_LEFT,
 };
+
+/** Canvas height — tight to tagline + bottom padding (no extra strip below). */
+export const HEIGHT = LAYOUT.tagY + LAYOUT.tagSize + BOTTOM_PADDING + BORDER_INSET * 2;
 
 export const NAME_LINE = {
   x: CONTENT_LEFT,
