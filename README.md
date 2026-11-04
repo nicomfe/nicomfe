@@ -17,4 +17,9 @@ I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) a simple online
   <img alt="GitHub activity for nicomfe: followers, stars, public repos and contributions over the last 12 months." src="https://raw.githubusercontent.com/nicomfe/nicomfe/output/stats-light.svg" width="100%">
 </picture>
 
-<p align="center"><sub>Stats refresh daily with GitHub Actions.</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicomfe/nicomfe/output/contrib-3d-dark.svg">
+  <img alt="3D chart of nicomfe's GitHub contributions over the last year, with languages and contribution types." src="https://raw.githubusercontent.com/nicomfe/nicomfe/output/contrib-3d-light.svg" width="100%">
+</picture>
+
+<p align="center"><sub>Activity graphics refresh daily with GitHub Actions.</sub></p>
