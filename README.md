@@ -1,4 +1,4 @@
-![Nicolás Fetter — Senior Software Engineer, Tech Lead, and Startup Builder. Helping startups turn ideas into reality.](assets/hero.gif)
+![Nicolás Fetter — Applied AI Engineer, Tech Lead, and Startup Builder. Helping startups turn ideas into reality.](assets/hero.gif)
 
 <p align="center">
   <a href="https://x.com/nicofetter" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/x-dark.svg"><img alt="X" src="assets/buttons/x-light.svg" height="44"></picture></a>

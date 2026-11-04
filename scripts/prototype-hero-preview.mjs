@@ -90,7 +90,7 @@ function variantC() {
   <rect width="${WIDTH}" height="${HEIGHT}" rx="14" fill="url(#bg)"/>
   <text x="420" y="108" text-anchor="middle" fill="#111" font-family="Geist" font-size="48">${NAME}</text>
   <rect x="396" y="122" width="48" height="3" fill="#111"/>
-  <text x="280" y="168" fill="#444" font-family="Geist" font-size="13">Senior Software Engineer</text>
+  <text x="280" y="168" fill="#444" font-family="Geist" font-size="13">Applied AI Engineer</text>
   <text x="420" y="168" text-anchor="middle" fill="#444" font-family="Geist" font-size="13">Tech Lead</text>
   <text x="560" y="168" fill="#444" font-family="Geist" font-size="13">Startup Builder</text>
   <text x="420" y="210" text-anchor="middle" fill="#666" font-family="Geist" font-size="15">${TAG}</text>

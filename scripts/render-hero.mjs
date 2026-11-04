@@ -19,7 +19,7 @@ const SCALE = 2;
 const FPS = 15;
 
 const PHRASES = [
-  "Senior Software Engineer",
+  "Applied AI Engineer",
   "Tech Lead",
   "Startup Builder",
 ];
@@ -93,8 +93,8 @@ const frames = timeline();
 if (preview) {
   const samples = [
     ["empty", ""],
-    ["mid", "Senior Soft"],
-    ["full", "Senior Software Engineer"],
+    ["mid", "Applied AI"],
+    ["full", "Applied AI Engineer"],
     ["lead", "Tech Lead"],
     ["builder", "Startup Builder"],
   ];
