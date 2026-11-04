@@ -33,13 +33,13 @@ jobs:
       - name: Stats
         run: node scripts/generate-stats.mjs dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PERSONAL_ACCESS_TOKEN }}
           GITHUB_LOGIN: ${{ github.repository_owner }}
 
       - name: 3D contribution graph
         uses: nicomfe/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
 
