@@ -8,4 +8,4 @@
 
 I'm a software engineer from Argentina living in Spain, building for the web since 2010. Currently working for startups integrating AI into customer facing products.
 
-I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) and founder of [TheHype.nz](https://thehype.nz) Digital agency for New Zealand small businesses.
+I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) a simple online tool to create and send pdf invoices. And the founder of [TheHype.nz](https://thehype.nz) a digital agency for New Zealand small businesses.
