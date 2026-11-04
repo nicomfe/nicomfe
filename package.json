@@ -1,0 +1,26 @@
+{
+  "name": "nico-git-profile",
+  "version": "1.0.0",
+  "description": "GitHub profile README",
+  "private": true,
+  "scripts": {
+    "render:hero": "node scripts/render-hero.mjs && python3 scripts/encode-hero.py && gifsicle -O3 assets/hero.gif -o assets/hero.gif",
+    "prototype:hero": "npx --yes serve prototype/hero-styles -p 3456",
+    "prototype:hero:png": "node scripts/prototype-hero-preview.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicomfe/nicomfe.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Fetter <hi@nicofetter.com> (http://nicofetter.com/)",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nicomfe/nicomfe/issues"
+  },
+  "homepage": "https://github.com/nicomfe/nicomfe#readme",
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2"
+  }
+}

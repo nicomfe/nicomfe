@@ -1,3 +1,5 @@
+![Nicolás Fetter — Senior Software Engineer, Tech Lead, and Startup Builder. Helping startups turn ideas into reality.](assets/hero.gif)
+
 ### 🚀 Maker of
 
 📓 [TinyInvoice.app](https://TinyInvoice.app) Web Invoice Generator, create & send professional PDFs invoices
