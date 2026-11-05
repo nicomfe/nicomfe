@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { Resvg } from "@resvg/resvg-js";
@@ -106,6 +106,9 @@ if (preview) {
 } else {
   const outDir = "/tmp/hero-frames";
   mkdirSync(outDir, { recursive: true });
+  for (const name of readdirSync(outDir)) {
+    if (name.startsWith("frame_") && name.endsWith(".png")) rmSync(resolve(outDir, name));
+  }
   frames.forEach((text, index) => {
     const png = renderPng(svgFor(text, index / FPS));
     const file = resolve(outDir, `frame_${String(index + 1).padStart(4, "0")}.png`);
