@@ -2,7 +2,6 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { Resvg } from "@resvg/resvg-js";
-import { experienceStampSvg } from "./hero-stamp-layout.mjs";
 import {
   BORDER_INSET,
   HEIGHT,
@@ -69,7 +68,6 @@ function svgFor(text, time) {
   <rect x="${border}" y="${border}" width="${borderW}" height="${borderH}" fill="#fff" stroke="#000" stroke-width="4"/>
   <text x="${promptX}" y="${nameY1}" fill="#000" font-family="Geist" font-weight="600" font-size="${nameSize}" letter-spacing="${nameLetterSpacing}">NICOLÁS</text>
   <text x="${promptX}" y="${nameY2}" fill="#000" font-family="Geist" font-weight="600" font-size="${nameSize}" letter-spacing="${nameLetterSpacing}">FETTER</text>
-  ${experienceStampSvg()}
   <line x1="${promptX}" y1="${rule1Y}" x2="${WIDTH - promptX}" y2="${rule1Y}" stroke="#000" stroke-width="3"/>
   <text x="${promptX}" y="${typeY}" fill="#000" font-family="Geist Mono" font-weight="400" font-size="${monoSize}">&gt;</text>
   <text x="${textX.toFixed(1)}" y="${typeY}" fill="#000" font-family="Geist Mono" font-weight="400" font-size="${monoSize}">${text}</text>

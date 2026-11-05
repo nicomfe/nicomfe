@@ -6,7 +6,6 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { Resvg } from "@resvg/resvg-js";
-import { experienceStampSvg } from "./hero-stamp-layout.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const fontDir = resolve(root, "assets/fonts");
@@ -119,7 +118,6 @@ function variantE(text) {
   <rect x="4" y="4" width="832" height="292" rx="0" fill="#fff" stroke="#000" stroke-width="4"/>
   <text x="44" y="100" fill="#000" font-family="Geist" font-weight="800" font-size="44">NICOLÁS</text>
   <text x="44" y="148" fill="#000" font-family="Geist" font-weight="800" font-size="44">FETTER</text>
-  ${experienceStampSvg()}
   <line x1="44" y1="175" x2="796" y2="175" stroke="#000" stroke-width="3"/>
   <text x="44" y="210" fill="#000" font-family="Geist Mono" font-weight="600" font-size="20">&gt; ${text}</text>
   <line x1="44" y1="235" x2="796" y2="235" stroke="#000" stroke-width="3"/>
