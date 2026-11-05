@@ -6,7 +6,7 @@
   <a href="https://nicofetter.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/website-dark.svg"><img alt="nicofetter.com" src="assets/buttons/website-light.svg" height="44"></picture></a>
 </p>
 
-I'm a software engineer from Argentina living in Spain, building for the web since 2010. Currently working for startups integrating AI into customer facing products.
+I'm an Argentinian software engineer based in the Basque Country, Spain. Building for the web since 2009. Today, I combine deep engineering experience with AI technologies to design and build products for startups.
 
 I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) a simple online tool to create and send pdf invoices. And the founder of [TheHype.nz](https://thehype.nz) a digital agency for New Zealand small businesses.
 
