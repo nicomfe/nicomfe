@@ -39,7 +39,7 @@ I'm also the maker of [TinyInvoice.app](https://tinyinvoice.app) a simple online
 | 2014 | Joined Telecom as a Software Engineer
 | 2018 | Founded TheHype.nz, a web development agency for small New Zealand Businesses
 | 2021 | Technical Co-Founder at Instafood, a food delivery startup built around a cloud-kitchen model
-| 2023 | Relocated to Spain and joined an e-learning startup as a Lead Software Engineer
+| 2024 | Relocated to Spain and joined an e-learning startup as a Lead Software Engineer
 
 </details>
 
